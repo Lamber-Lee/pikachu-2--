@@ -1,0 +1,19 @@
+18
+33D:\Lamber\pikachu-1\src\style.css133219497696865884 0
+24D:\Lamber\pikachu-1\dist133219582230816526 1
+23D:\Lamber\pikachu-1\src133219515059911065 1
+30D:\Lamber\pikachu-1\src\images133219494775293466 1
+35D:\Lamber\pikachu-1\dist\index.html133219496511656071 0
+34D:\Lamber\pikachu-1\src\index.html133219495712217927 0
+31D:\Lamber\pikachu-1\src\test.js133219582175301886 0
+40D:\Lamber\pikachu-1\src\images\flash.gif133219490018046325 0
+31D:\Lamber\pikachu-1\src\main.js133219397967852348 0
+34D:\Lamber\pikachu-1\dist\test.html133219582228267266 0
+33D:\Lamber\pikachu-1\src\test.html133219581751864156 0
+43D:\Lamber\pikachu-1\dist\flash.730c9068.gif133219496511536402 0
+43D:\Lamber\pikachu-1\dist\index.5952072d.css133219497700037361 0
+47D:\Lamber\pikachu-1\dist\index.5952072d.css.map133219497700226844 0
+42D:\Lamber\pikachu-1\dist\index.fef1cfaf.js133219496511656071 0
+46D:\Lamber\pikachu-1\dist\index.fef1cfaf.js.map133219496511855538 0
+41D:\Lamber\pikachu-1\dist\test.72960252.js133219582228277249 0
+45D:\Lamber\pikachu-1\dist\test.72960252.js.map133219582230656961 0
